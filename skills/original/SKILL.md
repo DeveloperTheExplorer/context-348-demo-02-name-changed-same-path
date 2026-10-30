@@ -1,10 +1,10 @@
 ---
-name: original-summary
-description: Imported before its name changed in the same folder.
+name: renamed-summary
+description: New upstream name at the same path. The local skill keeps its original name.
 ---
 
-# original-summary
+# renamed-summary
 
-Imported before its name changed in the same folder.
+New upstream name at the same path. The local skill keeps its original name.
 
 This is a local UI demo skill. No external actions are required.
